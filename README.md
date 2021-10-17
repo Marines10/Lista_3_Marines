@@ -1,5 +1,7 @@
 # LIsta3_Marines
 
+[![CI-Lista-3-Marines](https://github.com/Marines10/Lista_3_Marines/actions/workflows/main.yml/badge.svg)](https://github.com/Marines10/Lista_3_Marines/actions/workflows/main.yml)
+
 # 📕: Lista de Exercícios 3 :closed_book:
 
 
