@@ -5,7 +5,7 @@
 
 ## :triangular_flag_on_post: Execução :
 
-1️⃣: Clone do repositório [https://github.com/Marines10/LIsta3_Marines.git] 
+1️⃣: Clone do repositório [https://github.com/Marines10/Lista_3_Marines.git] 
 
 2️⃣: Abra a pasta do projeto no Intellij ou em uma IDE Java compatível
 
